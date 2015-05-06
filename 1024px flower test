@@ -1,0 +1,113 @@
+<html>
+
+<head>
+
+<style>
+
+
+body{
+background-color:#f4f4f4;
+}
+
+@media screen and (max-width: 1024px) {
+
+#img1{
+position:fixed;
+left:1%;
+top:1%;
+width:50%;
+height:61%;
+
+}
+
+
+ #img2{
+position:fixed;
+left:52%;
+top:1%;
+width:23%;
+height:30%;
+
+}
+
+ #img3{
+position:fixed;
+left:76%;
+top:1%;
+width:23%;
+height:30%;
+
+}
+ #img4{
+position:fixed;
+left:76%;
+top:32%;
+width:23%;
+height:30%;
+
+}
+ #img5{
+position:fixed;
+left:52%;
+top:32%;
+width:23%;
+height:30%;
+
+}
+
+ #img6{
+position:fixed;
+left:76%;
+top:63%;
+width:23%;
+height:30%;
+
+}
+
+ #img7{
+position:fixed;
+left:52%;
+top:63%;
+width:23%;
+height:30%
+
+}
+
+
+
+   
+}
+
+</style>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</head>
+
+
+<body>
+
+
+<img id="img1"src="icon.png" />
+
+<img id="img2"src="icon.png" />
+
+
+
+<img id="img3"src="icon.png" />
+
+<img id="img4"src="icon.png" />
+
+<img id="img5"src="icon.png" />
+
+<img id="img6"src="icon.png" />
+
+
+<img id="img7"src="icon.png" />
+
+
+
+</body>
+
+</html>
